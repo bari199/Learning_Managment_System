@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import { Routes, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <div>Relese-v1.0.0</div>
-  )
-}
+    <div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </div>
+  );
+};
 
-export default App
+export default App;
