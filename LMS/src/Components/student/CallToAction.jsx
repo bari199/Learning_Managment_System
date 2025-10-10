@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const CallToAction = () => {
   return (
     <div>
-        <h1>CallToAction</h1>
+      <h1>CallToAction Components</h1>
     </div>
-  )
-}
+  );
+};
 
-export default CallToAction
+export default CallToAction;
