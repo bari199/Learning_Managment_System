@@ -211,6 +211,45 @@ export const dummyStudentEnrolled = [
     }
 ]
 
+
+export const allCourses = [
+    {
+        "_id":"1",
+        "courses":"https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg",
+        "courseName":"xyz",
+    },
+      {
+        "_id":"2",
+        "courses":"https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg",
+        "courseName":"xyz",
+    },
+      {
+        "_id":"3",
+        "courses":"https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg",
+        "courseName":"xyz",
+    },
+      {
+        "_id":"4",
+        "courses":"https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg",
+        "courseName":"xyz",
+    },
+      {
+        "_id":"5",
+        "courses":"https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg",
+        "courseName":"xyz",
+    },
+      {
+        "_id":"6",
+        "courses":"https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg",
+        "courseName":"xyz",
+    },
+      {
+        "_id":"7",
+        "courses":"https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg",
+        "courseName":"xyz",
+    }
+]
+
 export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1a1",
